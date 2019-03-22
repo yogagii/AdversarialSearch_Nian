@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\yoga\documents\学习档案\设计学\顾振宇\打杂\nian\nian game\adversarialsearch_nian\adversarialsearch_nian\main.cpp(96): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yoga\documents\学习档案\设计学\顾振宇\打杂\nian\nian game\adversarialsearch_nian\adversarialsearch_nian\main.cpp(115): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yoga\documents\学习档案\设计学\顾振宇\打杂\nian\nian game\adversarialsearch_nian\adversarialsearch_nian\main.cpp(124): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yoga\documents\学习档案\设计学\顾振宇\打杂\nian\nian game\adversarialsearch_nian\adversarialsearch_nian\main.cpp(138): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yoga\documents\学习档案\设计学\顾振宇\打杂\nian\nian game\adversarialsearch_nian\adversarialsearch_nian\main.cpp(161): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yoga\documents\学习档案\设计学\顾振宇\打杂\nian\nian game\adversarialsearch_nian\adversarialsearch_nian\main.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yoga\documents\学习档案\设计学\顾振宇\打杂\nian\nian game\adversarialsearch_nian\adversarialsearch_nian\main.cpp(148): warning C4715: “alphaBetaSearch”: 不是所有的控件路径都返回值
+  AdversarialSearch_nian.vcxproj -> C:\Users\Yoga\Documents\学习档案\设计学\顾振宇\打杂\nian\nian game\AdversarialSearch_nian\Debug\AdversarialSearch_nian.exe
+  AdversarialSearch_nian.vcxproj -> C:\Users\Yoga\Documents\学习档案\设计学\顾振宇\打杂\nian\nian game\AdversarialSearch_nian\Debug\AdversarialSearch_nian.pdb (Partial PDB)
